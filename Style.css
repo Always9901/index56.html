@@ -1,0 +1,809 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+.Logo{
+    display: flex;
+    color: aliceblue;
+    padding: 30px;
+    padding-left: 40px;
+    cursor:context-menu;
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+   
+}
+.nav{
+    padding: 10px;
+    padding-left: 180px;
+    text-align:center ;
+ 
+    
+
+}
+.nav a{
+    text-decoration: none;
+    color:whitesmoke;
+}
+.nav ul li {
+    display: inline;
+    margin: 60px;
+    color: aliceblue;
+    font-size: 20px;
+    cursor:context-menu;
+
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    text-decoration: none;
+}
+
+.intro{
+   
+    text-align: center;
+    margin: 200px;
+    color: aliceblue;
+    font-size: 60px;
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    cursor:context-menu;
+    
+   
+}
+.para1{
+    font-family: "Vollkorn", serif;
+}
+
+
+.Header{
+    height: 100vh;
+    background-image: url(/imges/Black\ Modern\ Gym\ Fitness\ Youtube\ Banner.png);
+    background-size: cover;
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+   
+    
+}
+
+.nav ul li:hover{
+text-decoration: underline 2px blue;
+  text-underline-offset: 8px;
+  animation: meteor-shower-anim linear 1400ms infinite forwards;
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.Contanier1{
+       height: 500px;
+       display: flex;
+       background-color:antiquewhite ;
+}
+.four{
+    display: flex;
+
+}
+
+.content1{
+    display: flex;
+}
+.element{
+   width: 70%;
+   margin: auto 50px;
+   font-family: "Roboto", sans-serif;;
+  
+}
+.header2{
+    font-size: 40px;
+    font-family: "Roboto", sans-serif;;
+    font-weight: bold;
+}
+
+  .support{
+   margin: auto 100px;
+  }
+  
+
+.img2 img{
+    border-radius: 20px;
+
+}
+.deekpekname{
+
+  
+  text-align: center;
+  font-size: 25px;
+}
+
+
+.para2{
+    margin-top: 30px;
+    line-height: 30px;
+    font-size: 18px;
+    width: 500px;
+    font-family: "Vollkorn", serif;
+
+}
+.header2{
+    margin-top: 30px;
+}
+.btn{
+     width: auto 100%;
+     margin-top: 30px;
+     border: solid;
+     border-radius: 15px;
+     padding: 10px;
+     background-color: red;
+     color: azure;
+     font-size: 30px;
+     cursor: pointer;
+     font-family: "Bree Serif", serif;
+}
+.btn:hover{
+    background-color: blue;
+}
+.intro1{
+    font-size: 18px;
+  
+   
+}
+
+.img2:active{
+    cursor: pointer;
+}
+
+.names{
+   display: flex;
+   
+}
+.trainer{
+   align-items: center;
+   justify-content: start;
+    height: 350px;
+  
+}
+.name1{
+    gap: 20px;
+}
+
+.pto img{
+    border-radius: 100px;
+    margin: auto 150px;
+
+}
+.deepeek{
+   text-align: center;
+   width: 500px;
+   font-family: "Roboto Slab", serif;
+   font-optical-sizing: auto;
+   font-weight: weight;
+   font-style: normal;
+   
+
+
+   
+    line-height: 35px;
+}
+.pto{
+    border-radius: 40px;
+   
+
+}
+.pto:hover{
+border-radius:3%;
+transition: 1s ease;
+background-color: whitesmoke;
+
+transition: .5s ease;
+}
+.contanier3{
+ 
+padding: 20px;
+}
+
+
+
+.contanier2{
+    height: 100px;
+    
+
+}
+.TopTN{  
+width: 90%;
+text-align: center;
+padding: 40px;
+font-size: 50px;
+font-family: "Josefin Sans", sans-serif;
+
+
+}
+.Rajesh{
+  
+    text-align: center;
+    font-size: 25px;
+   
+}
+.nickmitchell{
+  
+    text-align: center;
+    font-size: 25px;
+  
+}
+.contanier4{
+    height: 155vh;
+    position: relative;
+    
+ 
+}
+.our{
+    padding: 10px;
+}
+
+
+.progrm {
+    font-size: 50px;
+    width: 100%;
+
+    text-align: center;
+    font-family: "Lilita One", sans-serif;
+    margin-top: 20px;
+}
+.programcontant1{
+   
+    margin: 100px;
+     text-align: start;
+    font-size: 20px;
+    font-family: "Josefin Sans", sans-serif;
+    line-height: 30px;
+    margin-top: 20px;
+  
+ 
+  
+
+
+}
+.contanier4::before{
+       content: "";
+       position: absolute;
+       top:0;
+       left: 0;
+       height: 100%;
+       width: 100%;
+       background-image: url(/imges/backg.png);
+       background-size: cover;
+       opacity: 0.2;
+}
+
+    
+   
+
+
+
+.col-2{
+    display: flex;
+
+}
+.col-1{
+   
+    margin-top: 40px;
+}
+.col-3 img{
+    opacity: 0.9;
+    margin: auto 100px;
+    
+}
+.col-4 {
+    margin-top: 50px;
+    width: 550px;
+}
+.row-1{
+    margin-bottom:35px;
+    line-height: 25px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Lilita One", sans-serif;
+}
+.row-2{
+    line-height: 30px;
+    font-size: 18px;
+  
+    justify-content: start;
+    font-family: "Alata", sans-serif;
+}
+
+
+.col-6{
+   display: flex;
+   
+}
+.col-9 img{
+    opacity: 0.9;
+    margin: auto 100px;
+    
+}
+
+   
+
+
+   
+.row-3{
+   margin-top: 70px;
+   font-size: 30px;
+   font-family: "Lilita One", sans-serif;
+}
+.row-4{
+    margin-top: 35px;
+    font-size: 18px;
+    line-height: 30px;
+    justify-content: start;
+    font-family: "Alata", sans-serif;
+}
+.col-8{
+    display: flex;
+    
+}
+.col-10 {
+    margin-top: 50px;
+    width: 550px;
+}
+.row-5{
+    margin-top: 10px;
+    font-size: 30px;
+    font-family: "Lilita One", sans-serif;
+}
+.row-6{
+    margin-top: 20px;
+    font-size: 18px;
+    line-height: 30px;
+    justify-content: start;
+    font-family: "Alata", sans-serif;
+}
+.col-7{
+    margin-top: 40px;
+}
+.contanier5{
+    height: 500px;
+ 
+}
+
+.col-12{
+    display: flex;
+}
+.col-13{
+width: 100%;
+
+text-align: center;  
+font-size: 30px;
+margin-top: 20px;
+}
+.row-8{
+    color: red;
+}
+.col-17{
+    display: grid;
+    grid-template-columns: 25%  25% 25% 25%;
+    height: 200px;
+    margin:  auto 100px;
+    text-align: center;
+
+}
+.col-16{
+    margin-top: 30px;
+   
+}
+.more{
+    margin-top: 50px;
+    width: 100%;
+    text-align: center;
+     
+}
+.btn2{
+    padding: 15px 15px 15px 15px;
+    background-color: red;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    font-family: "Bree Serif", serif;
+    color: aliceblue;
+}
+.Contanier7{
+    height: 150px;
+    background-color: yellow;
+}
+.col-18{
+    display: flex;
+padding: 40px;
+}
+
+
+.col-21{
+margin: auto 100px;
+text-align: center;
+}
+.btn3{
+    padding: 20px 20px 20px 20px;
+    font-size: 30px;
+    border-color: black;
+    background-color: black;
+    color: yellow;
+  
+    box-shadow: 20px;
+}
+.start{
+    width: 100%;
+   
+  
+    font-size: 20px;
+    margin-top: 10px;
+
+}
+.contanier8{
+    height: 500px;
+}
+.contanier8{
+    height: 5px;
+    background-color: blue;
+}
+.contanier9{
+    height:550px;
+  
+}
+.col-23{
+    display: grid;
+    grid-template-columns: 30%  35% 25% ;
+   
+ 
+}
+
+.col-24{
+    display: flex;
+  
+    
+}
+.col-22{
+    width:  90%;
+   margin: 30px;
+
+    margin-top: 100px;
+}
+.col-28{
+    margin-top: 64px;
+    margin-left: 20px;
+  
+}
+.col-30{
+    margin-top: 20px;
+}
+.col-28 ul li a{
+
+    font-size: 20px;
+    text-decoration: none;
+
+
+}
+.col-28 ul {
+    list-style: none;
+}
+.col-30 {
+    margin-top: 34px;
+   
+}
+.col-30 ul li a{
+    font-size: 20px;
+    text-decoration: none;
+    line-height: 30x;
+}
+.col-30 ul {
+    list-style: none;
+}
+.footer {
+    color: red;
+    font-size: 25px;
+
+}
+.row-12{
+    margin-top: 30px;
+}
+.col-32{
+    margin-top: 30px;
+ 
+}
+.col-32 input{
+   width: 300px;
+   height: 35px;
+    box-shadow: 30px;
+    border-radius: 7px;
+}
+.btn-4{
+    width: 64%;
+    text-align: center;
+    margin-top: 20px;
+    height: 35px;
+    background-color: yellow;
+    border-radius: 20px;
+    font-size: 20px;
+}
+.icons ul li {
+    display: inline-flex;
+
+
+}
+.icons{
+    margin-top: 20px;
+    text-align: center;
+    width: 300px;
+}
+.row-13{
+    margin-top: 40px;
+    font-size: 18px;
+
+}
+.col-35{
+    margin-top: 10px;
+}
+.col-36{
+    display: flex;
+    margin-top: 10px;
+}
+.col-37{
+    margin: auto 20px;
+}
+.LATET{
+    font-size: 25px;
+}
+.col-38{
+    margin-top: 5px;
+}
+.col-40{
+    display: flex;
+}
+.row-17{
+    margin: auto 20px;
+    margin-top: 10px;
+
+}
+.row-17 a{
+    text-decoration: none;
+}
+.col-37 a{
+    text-decoration: none;
+}
+.row-16{
+    margin-top: 4px;
+}
+.col-43{
+    display: flex;
+}
+.row-19 a{
+    text-align: center;
+    text-decoration: none;
+    font-size: 22px;
+ 
+}
+.col-44{
+    width: 65%;
+}
+.col-42{
+    margin-top: 40px;
+} 
+.row-18{
+  font-size: 22px;
+}
+.col-47{
+    margin-top: 30px;
+}
+.row-21{
+    font-size: 20px;
+    line-height: 30px;
+}
+
+/* mobile responsive */
+
+@media screen and (max-width: 600px) {
+    .intro{
+        display: block;
+        margin: auto 1px;
+        font-size: 40px;
+        padding: 100px;
+        line-height: 70px;
+         width: 250px;
+       
+        line-height: 30x;
+        
+    }
+    
+    .intro1{
+        width: 300px;
+        text-align: start;
+        display: block;
+      
+        
+    }
+    .four{
+        display: block;
+    }
+    .header2{
+        width: 300px;
+        display: block;
+    }
+    .Contanier1{
+        height: 134vh;
+        display: block;
+    }
+    .para2{
+        width: 300px;
+        display: block;
+    }
+   .name1{
+    margin-top: 30px;
+   }
+   .name2{
+    margin-top: 30px;
+   }
+   .name3{
+    margin-top: 30px;
+   }
+ .coaches{
+    font-size: 30px;
+    width: 400px;
+    text-align:center ;
+ }
+ .TopTN{
+    display: block;
+ }
+ .contanier3{
+    display: block;
+    height: 136vh;
+ 
+ }
+ .names{
+    display:block;
+ }
+
+
+ .pto img{
+    margin-left: 120px;
+ }
+
+ 
+
+
+ .deepeek{
+    width: 400px;
+    text-align: center;
+    margin: auto 10px;
+    
+ }
+ .img2 img{
+    margin-top: 20px;
+    width: 250px;
+  
+ }
+ .para1{
+   padding-top: 20px;
+ }
+ .programcontant1{
+  margin: 10px;
+  font-size: 16px;
+  text-align: start;
+ }
+ .col-2{
+     display: block;
+ }
+ .col-3 img{
+ 
+   width: 300px;
+  
+
+ }
+ .col-5{
+    display: block;
+ }
+ .col-8{
+    display: block;
+ }
+ .col-9 img{
+    width: 300px;
+ }
+.col-4{
+    width: 470px;
+    
+}
+.row-1{
+    width: 400px;
+    margin: 20px;
+}
+
+.row-2{
+    font-size: 16px;
+    width: 400px;
+    margin: 20px;
+}
+.row-5{
+    width: 400px;
+    margin: 20px;
+}
+
+.row-6{
+    font-size: 16px;
+    width: 400px;
+    margin: 20px;
+}
+.col-13{
+    display: block;
+}
+.row-7{
+    font-size: 35px;
+}
+.col-15{
+   font-size: 16px;
+}
+.col-14{
+    font-size: 18px;
+}
+.col-17{
+    display: block;
+    
+  
+}
+.contanier4{
+    height: 222vh;
+}
+.contanier3{
+    height: 155vh;
+}
+.col-17{
+    height: 105vh;
+}
+.contanier5{
+    height: 140vh;
+}
+.row-9{
+    width: 200px;
+}
+.Contanier7{
+    height: 40vh;
+}
+.col-18{
+    display: block;
+}
+.btn3{
+    width: 150px;
+    height: 60px;
+    font-size: 18px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+}
+.col-21{
+    margin-top: 50px;
+}
+.box-1 img{
+    width: 250px;
+   
+}
+.box-2 img{
+    width: 250px;
+}
+.box-3 img{
+    width: 250px;
+}
+.box-4 img{
+    width: 250px;
+}
+.col-23{
+    display: block;
+}
+.row-11{
+    margin-top:50px ;
+}
+.BLOG{
+    margin-top: 50px;
+}
+.row-48{
+    width: 500px;
+}
+} 
+
+    
+    
+  
